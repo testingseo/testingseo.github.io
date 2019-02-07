@@ -1,9 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-            
+     
+<!-- Main website -->
 <url>
   <loc>https://testingseo.github.io/</loc>
   <lastmod>2019-02-07T18:33:29+00:00</lastmod>
+</url>
+     
+<!-- First Video -->
+<url>
+  <loc>https://testingseo.github.io?videoId=30317956637202#bc-embed-5c58b0156c28b9001cd373d0</loc>
+  <video:video>
+    <video:thumbnail_loc>
+      https://cf-images.us-east-1.qa.boltdns.net/v1/jit/30317216565202/e0669e48-f937-45c5-b773-33931a2f0bcf/main/160x90/15s23ms/match/image.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sea Turtle
+    </video:title>
+    <video:description>
+      
+    </video:description>
+    <video:player_loc allow_embed="yes">
+      http://bc-players-qa.s3.amazonaws.com/30317216565202/kkwn3vlQ3P_default/index.html?videoId=30317956637202
+    </video:player_loc>
+    <video:duration>
+      30
+    </video:duration>
+    <video:publication_date>
+      2019-01-15T18:14:31.025Z
+    </video:publication_date>
+    <video:gallery_loc>
+      https://testingseo.github.io
+    </video:gallery_loc>
+  </video:video>
 </url>
 
 </urlset>
