@@ -1,90 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-     
 <url>
-  <loc>https://testingseo.github.io?videoId=30317956637202#bc-embed-5c58b0156c28b9001cd373d0</loc>
+  <loc>https://testingseo.github.io?videoId=5986873002001#bc-embed-5c617f5d0103560019a617c3</loc>
   <video:video>
     <video:thumbnail_loc>
-      https://cf-images.us-east-1.qa.boltdns.net/v1/jit/30317216565202/e0669e48-f937-45c5-b773-33931a2f0bcf/main/160x90/15s23ms/match/image.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Sea Turtle
-    </video:title>
-    <video:description>
-      
-    </video:description>
-    <video:player_loc allow_embed="yes">
-      http://bc-players-qa.s3.amazonaws.com/30317216565202/kkwn3vlQ3P_default/index.html?videoId=30317956637202
-    </video:player_loc>
-    <video:duration>
-      30
-    </video:duration>
-    <video:publication_date>
-      2019-01-15T18:14:31.025Z
-    </video:publication_date>
-    <video:gallery_loc>
-      https://testingseo.github.io
-    </video:gallery_loc>
-  </video:video>
-</url>
-<url>
-  <loc>https://testingseo.github.io?videoId=30317956633202#bc-embed-5c58b0156c28b9001cd373d0</loc>
-  <video:video>
-    <video:thumbnail_loc>
-      https://cf-images.us-east-1.qa.boltdns.net/v1/jit/30317216565202/fb9eb36c-a414-477f-8f07-d75dce418b90/main/160x90/14s559ms/match/image.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Crab
-    </video:title>
-    <video:description>
-      
-    </video:description>
-    <video:player_loc allow_embed="yes">
-      http://bc-players-qa.s3.amazonaws.com/30317216565202/kkwn3vlQ3P_default/index.html?videoId=30317956633202
-    </video:player_loc>
-    <video:duration>
-      29
-    </video:duration>
-    <video:publication_date>
-      2019-01-15T18:14:30.841Z
-    </video:publication_date>
-    <video:gallery_loc>
-      https://testingseo.github.io
-    </video:gallery_loc>
-  </video:video>
-</url>
-<url>
-  <loc>https://testingseo.github.io?videoId=30317956635202#bc-embed-5c58b0156c28b9001cd373d0</loc>
-  <video:video>
-    <video:thumbnail_loc>
-      https://cf-images.us-east-1.qa.boltdns.net/v1/jit/30317216565202/6a3e9649-9ed9-4fa7-83fa-9d3875d019c1/main/160x90/14s440ms/match/image.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Lionfish
-    </video:title>
-    <video:description>
-      
-    </video:description>
-    <video:player_loc allow_embed="yes">
-      http://bc-players-qa.s3.amazonaws.com/30317216565202/kkwn3vlQ3P_default/index.html?videoId=30317956635202
-    </video:player_loc>
-    <video:duration>
-      29
-    </video:duration>
-    <video:publication_date>
-      2019-01-15T18:14:30.935Z
-    </video:publication_date>
-    <video:gallery_loc>
-      https://testingseo.github.io
-    </video:gallery_loc>
-  </video:video>
-</url>
-<url>
-  <loc>https://testingseo.github.io?videoId=30317956627202#bc-embed-5c58b0156c28b9001cd373d0</loc>
-  <video:video>
-    <video:thumbnail_loc>
-      https://cf-images.us-east-1.qa.boltdns.net/v1/jit/30317216565202/7265044a-551d-4f4f-881d-cb0b617ff73e/main/160x90/15s/match/image.jpg
+      https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5986723910001/f6f1d424-5d91-48f1-a383-529057c20754/main/160x90/15s/match/image.jpg
     </video:thumbnail_loc>
     <video:title>
       Clown Fish
@@ -93,13 +14,13 @@
       
     </video:description>
     <video:player_loc allow_embed="yes">
-      http://bc-players-qa.s3.amazonaws.com/30317216565202/kkwn3vlQ3P_default/index.html?videoId=30317956627202
+      http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986873002001
     </video:player_loc>
     <video:duration>
       30
     </video:duration>
     <video:publication_date>
-      2019-01-15T18:14:30.642Z
+      2019-01-07T19:53:26.638Z
     </video:publication_date>
     <video:gallery_loc>
       https://testingseo.github.io
@@ -107,25 +28,25 @@
   </video:video>
 </url>
 <url>
-  <loc>https://testingseo.github.io?videoId=30317956642202#bc-embed-5c58b0156c28b9001cd373d0</loc>
+  <loc>https://testingseo.github.io?videoId=5986870744001#bc-embed-5c617f5d0103560019a617c3</loc>
   <video:video>
     <video:thumbnail_loc>
-      https://cf-images.us-east-1.qa.boltdns.net/v1/jit/30317216565202/d0fa0046-e6af-45a4-8926-c8b33b334e2a/main/160x90/14s600ms/match/image.jpg
+      https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5986723910001/46d69f12-1bc8-444e-b5df-f971858c48f2/main/160x90/14s559ms/match/image.jpg
     </video:thumbnail_loc>
     <video:title>
-      Seahorse
+      Crab
     </video:title>
     <video:description>
       
     </video:description>
     <video:player_loc allow_embed="yes">
-      http://bc-players-qa.s3.amazonaws.com/30317216565202/kkwn3vlQ3P_default/index.html?videoId=30317956642202
+      http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986870744001
     </video:player_loc>
     <video:duration>
       29
     </video:duration>
     <video:publication_date>
-      2019-01-15T18:14:31.145Z
+      2019-01-07T19:53:26.548Z
     </video:publication_date>
     <video:gallery_loc>
       https://testingseo.github.io
@@ -133,36 +54,10 @@
   </video:video>
 </url>
 <url>
-  <loc>https://testingseo.github.io?videoId=30317956634202#bc-embed-5c58b0156c28b9001cd373d0</loc>
+  <loc>https://testingseo.github.io?videoId=5986874739001#bc-embed-5c617f5d0103560019a617c3</loc>
   <video:video>
     <video:thumbnail_loc>
-      https://cf-images.us-east-1.qa.boltdns.net/v1/jit/30317216565202/abcc5267-72cf-4fc3-b296-705079cd737f/main/160x90/7s40ms/match/image.jpg
-    </video:thumbnail_loc>
-    <video:title>
-      Leafy Seadragon
-    </video:title>
-    <video:description>
-      
-    </video:description>
-    <video:player_loc allow_embed="yes">
-      http://bc-players-qa.s3.amazonaws.com/30317216565202/kkwn3vlQ3P_default/index.html?videoId=30317956634202
-    </video:player_loc>
-    <video:duration>
-      14
-    </video:duration>
-    <video:publication_date>
-      2019-01-15T18:14:30.927Z
-    </video:publication_date>
-    <video:gallery_loc>
-      https://testingseo.github.io
-    </video:gallery_loc>
-  </video:video>
-</url>
-<url>
-  <loc>https://testingseo.github.io?videoId=30317956630202#bc-embed-5c58b0156c28b9001cd373d0</loc>
-  <video:video>
-    <video:thumbnail_loc>
-      https://cf-images.us-east-1.qa.boltdns.net/v1/jit/30317216565202/a3803dfc-75d4-41cd-95e7-85d8995a4af9/main/160x90/6s423ms/match/image.jpg
+      https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5986723910001/5cdd8163-daab-4c79-bb9b-f599dfc94f6d/main/160x90/6s423ms/match/image.jpg
     </video:thumbnail_loc>
     <video:title>
       Dolphins
@@ -171,13 +66,117 @@
       
     </video:description>
     <video:player_loc allow_embed="yes">
-      http://bc-players-qa.s3.amazonaws.com/30317216565202/kkwn3vlQ3P_default/index.html?videoId=30317956630202
+      http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986874739001
     </video:player_loc>
     <video:duration>
       13
     </video:duration>
     <video:publication_date>
-      2019-01-15T18:14:30.743Z
+      2019-01-07T19:53:26.837Z
+    </video:publication_date>
+    <video:gallery_loc>
+      https://testingseo.github.io
+    </video:gallery_loc>
+  </video:video>
+</url>
+<url>
+  <loc>https://testingseo.github.io?videoId=5986872734001#bc-embed-5c617f5d0103560019a617c3</loc>
+  <video:video>
+    <video:thumbnail_loc>
+      https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5986723910001/0fcbe8f5-73a2-4308-832a-6dbbf308343b/main/160x90/7s40ms/match/image.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Leafy Seadragon
+    </video:title>
+    <video:description>
+      
+    </video:description>
+    <video:player_loc allow_embed="yes">
+      http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986872734001
+    </video:player_loc>
+    <video:duration>
+      14
+    </video:duration>
+    <video:publication_date>
+      2019-01-07T19:53:26.912Z
+    </video:publication_date>
+    <video:gallery_loc>
+      https://testingseo.github.io
+    </video:gallery_loc>
+  </video:video>
+</url>
+<url>
+  <loc>https://testingseo.github.io?videoId=5986873003001#bc-embed-5c617f5d0103560019a617c3</loc>
+  <video:video>
+    <video:thumbnail_loc>
+      https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5986723910001/4d767394-7814-48e6-8f7c-b80fdde6811a/main/160x90/14s440ms/match/image.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Lionfish
+    </video:title>
+    <video:description>
+      
+    </video:description>
+    <video:player_loc allow_embed="yes">
+      http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986873003001
+    </video:player_loc>
+    <video:duration>
+      29
+    </video:duration>
+    <video:publication_date>
+      2019-01-07T19:53:26.916Z
+    </video:publication_date>
+    <video:gallery_loc>
+      https://testingseo.github.io
+    </video:gallery_loc>
+  </video:video>
+</url>
+<url>
+  <loc>https://testingseo.github.io?videoId=5986874328001#bc-embed-5c617f5d0103560019a617c3</loc>
+  <video:video>
+    <video:thumbnail_loc>
+      https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5986723910001/9f598b04-b8e5-4ea9-abbd-c842465f162a/main/160x90/15s23ms/match/image.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Sea Turtle
+    </video:title>
+    <video:description>
+      
+    </video:description>
+    <video:player_loc allow_embed="yes">
+      http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986874328001
+    </video:player_loc>
+    <video:duration>
+      30
+    </video:duration>
+    <video:publication_date>
+      2019-01-07T19:53:27.100Z
+    </video:publication_date>
+    <video:gallery_loc>
+      https://testingseo.github.io
+    </video:gallery_loc>
+  </video:video>
+</url>
+<url>
+  <loc>https://testingseo.github.io?videoId=5986873005001#bc-embed-5c617f5d0103560019a617c3</loc>
+  <video:video>
+    <video:thumbnail_loc>
+      https://cf-images.us-east-1.prod.boltdns.net/v1/jit/5986723910001/cd6a9817-65e8-4286-85a6-e1df47aca01d/main/160x90/14s600ms/match/image.jpg
+    </video:thumbnail_loc>
+    <video:title>
+      Seahorse
+    </video:title>
+    <video:description>
+      
+    </video:description>
+    <video:player_loc allow_embed="yes">
+      http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986873005001
+    </video:player_loc>
+    <video:duration>
+      29
+    </video:duration>
+    <video:publication_date>
+      2019-01-07T19:53:27.136Z
     </video:publication_date>
     <video:gallery_loc>
       https://testingseo.github.io
