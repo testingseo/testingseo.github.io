@@ -199,6 +199,7 @@
     </video:gallery_loc>
   </video:video>
 </url>
+<-- BC Single Videos -->
 <url>
   <loc>https://testingseo.github.io/bc-single.html?videoId=5986874328001#bc-embed-5c61dd5c144ee3001833c7cf</loc>
   <video:video>
@@ -287,7 +288,7 @@
       Tiger
     </video:title>
     <video:description>
-      
+      Tiger video
     </video:description>
     <video:player_loc allow_embed="yes">
       http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986870747001
@@ -313,7 +314,7 @@
       Zebra
     </video:title>
     <video:description>
-      
+      Zebra Video
     </video:description>
     <video:player_loc allow_embed="yes">
       http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986868201001
@@ -339,7 +340,7 @@
       Elephant
     </video:title>
     <video:description>
-      
+      Elephant video
     </video:description>
     <video:player_loc allow_embed="yes">
       http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986872035001
@@ -365,7 +366,7 @@
       Chihuahuan Raven
     </video:title>
     <video:description>
-      
+      Raven video
     </video:description>
     <video:player_loc allow_embed="yes">
       http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986872034001
@@ -394,7 +395,7 @@
       Peacock
     </video:title>
     <video:description>
-      
+      Peacock video
     </video:description>
     <video:player_loc allow_embed="yes">
       http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986870746001
@@ -420,7 +421,7 @@
       Bird_Titmouse
     </video:title>
     <video:description>
-      
+      Titmouse video
     </video:description>
     <video:player_loc allow_embed="yes">
       http://players.brightcove.net/5986723910001/default_default/index.html?videoId=5986872033001
