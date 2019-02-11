@@ -4,8 +4,19 @@
 
 <url>
 <loc>https://testingseo.github.io/</loc>
-<lastmod>2019-02-11T14:49:54+00:00</lastmod>
-</url>        
+<lastmod>2019-02-11T20:20:58+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://testingseo.github.io/single-video.html</loc>
+<lastmod>2019-02-11T20:20:58+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://testingseo.github.io/bc-single.html</loc>
+<lastmod>2019-02-11T20:20:58+00:00</lastmod>
+<priority>0.80</priority>
+</url>    
 <url>
   <loc>https://testingseo.github.io?videoId=5986873002001#bc-embed-5c617f5d0103560019a617c3</loc>
   <video:video>
